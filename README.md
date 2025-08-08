@@ -40,6 +40,6 @@ Here you can find some technical details about what tools I've been using and wh
   
 ## 📩 How contact me?
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebangaviria82@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-gaviria-9bb764231/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-gaviria-zambrano/)
 
 Feel free to explore all my public repositories or contact me to know more about my portfolio or private projects!
